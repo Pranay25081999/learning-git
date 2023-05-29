@@ -17,7 +17,7 @@ public class DockerProjectApplication {
 
     @GetMapping("/get")
     public String getMessage() {
-        return "something";
+        return "something hiii";
     }
 
 }
